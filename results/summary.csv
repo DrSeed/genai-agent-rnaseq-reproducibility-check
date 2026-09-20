@@ -1,0 +1,6 @@
+metric,value
+n_genes,800
+n_planted_true,40
+n_significant,499
+n_true_recovered,40
+n_direction_flags,153
